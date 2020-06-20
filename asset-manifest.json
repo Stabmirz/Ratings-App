@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/Ratings-App/static/css/main.0707f019.chunk.css",
-    "main.js": "/Ratings-App/static/js/main.547542b8.chunk.js",
-    "main.js.map": "/Ratings-App/static/js/main.547542b8.chunk.js.map",
+    "main.js": "/Ratings-App/static/js/main.b4fa265f.chunk.js",
+    "main.js.map": "/Ratings-App/static/js/main.b4fa265f.chunk.js.map",
     "runtime-main.js": "/Ratings-App/static/js/runtime-main.5584f341.js",
     "runtime-main.js.map": "/Ratings-App/static/js/runtime-main.5584f341.js.map",
     "static/css/2.829c9cb5.chunk.css": "/Ratings-App/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.7bd0e026.chunk.js": "/Ratings-App/static/js/2.7bd0e026.chunk.js",
-    "static/js/2.7bd0e026.chunk.js.map": "/Ratings-App/static/js/2.7bd0e026.chunk.js.map",
+    "static/js/2.a0419a8e.chunk.js": "/Ratings-App/static/js/2.a0419a8e.chunk.js",
+    "static/js/2.a0419a8e.chunk.js.map": "/Ratings-App/static/js/2.a0419a8e.chunk.js.map",
     "index.html": "/Ratings-App/index.html",
-    "precache-manifest.649611590a762dd537e1827f2537052b.js": "/Ratings-App/precache-manifest.649611590a762dd537e1827f2537052b.js",
+    "precache-manifest.67fea50a389bff01945c1f1fb7a6fdba.js": "/Ratings-App/precache-manifest.67fea50a389bff01945c1f1fb7a6fdba.js",
     "service-worker.js": "/Ratings-App/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/Ratings-App/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.0707f019.chunk.css.map": "/Ratings-App/static/css/main.0707f019.chunk.css.map",
-    "static/js/2.7bd0e026.chunk.js.LICENSE.txt": "/Ratings-App/static/js/2.7bd0e026.chunk.js.LICENSE.txt"
+    "static/js/2.a0419a8e.chunk.js.LICENSE.txt": "/Ratings-App/static/js/2.a0419a8e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5584f341.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.7bd0e026.chunk.js",
+    "static/js/2.a0419a8e.chunk.js",
     "static/css/main.0707f019.chunk.css",
-    "static/js/main.547542b8.chunk.js"
+    "static/js/main.b4fa265f.chunk.js"
   ]
 }
