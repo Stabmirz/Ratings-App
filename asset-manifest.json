@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.0707f019.chunk.css",
-    "main.js": "/static/js/main.2858c6db.chunk.js",
-    "main.js.map": "/static/js/main.2858c6db.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.0a691a5c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.0a691a5c.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.a0419a8e.chunk.js": "/static/js/2.a0419a8e.chunk.js",
-    "static/js/2.a0419a8e.chunk.js.map": "/static/js/2.a0419a8e.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c6d6abe63ba0b8d893b0b9fad7b6f472.js": "/precache-manifest.c6d6abe63ba0b8d893b0b9fad7b6f472.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.0707f019.chunk.css.map": "/static/css/main.0707f019.chunk.css.map",
-    "static/js/2.a0419a8e.chunk.js.LICENSE.txt": "/static/js/2.a0419a8e.chunk.js.LICENSE.txt"
+    "main.css": "/Ratings-App/static/css/main.0707f019.chunk.css",
+    "main.js": "/Ratings-App/static/js/main.e896b2c2.chunk.js",
+    "main.js.map": "/Ratings-App/static/js/main.e896b2c2.chunk.js.map",
+    "runtime-main.js": "/Ratings-App/static/js/runtime-main.5584f341.js",
+    "runtime-main.js.map": "/Ratings-App/static/js/runtime-main.5584f341.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/Ratings-App/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.a0419a8e.chunk.js": "/Ratings-App/static/js/2.a0419a8e.chunk.js",
+    "static/js/2.a0419a8e.chunk.js.map": "/Ratings-App/static/js/2.a0419a8e.chunk.js.map",
+    "index.html": "/Ratings-App/index.html",
+    "precache-manifest.ac9f7295d3a5754f6c49a301a1e56be9.js": "/Ratings-App/precache-manifest.ac9f7295d3a5754f6c49a301a1e56be9.js",
+    "service-worker.js": "/Ratings-App/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/Ratings-App/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.0707f019.chunk.css.map": "/Ratings-App/static/css/main.0707f019.chunk.css.map",
+    "static/js/2.a0419a8e.chunk.js.LICENSE.txt": "/Ratings-App/static/js/2.a0419a8e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0a691a5c.js",
+    "static/js/runtime-main.5584f341.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.a0419a8e.chunk.js",
     "static/css/main.0707f019.chunk.css",
-    "static/js/main.2858c6db.chunk.js"
+    "static/js/main.e896b2c2.chunk.js"
   ]
 }
