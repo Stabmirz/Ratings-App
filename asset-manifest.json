@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Ratings-App/static/css/main.14841c70.chunk.css",
+    "main.css": "/Ratings-App/static/css/main.c5518945.chunk.css",
     "main.js": "/Ratings-App/static/js/main.9e4925bd.chunk.js",
     "main.js.map": "/Ratings-App/static/js/main.9e4925bd.chunk.js.map",
     "runtime-main.js": "/Ratings-App/static/js/runtime-main.5584f341.js",
@@ -9,17 +9,17 @@
     "static/js/2.8429ba0d.chunk.js": "/Ratings-App/static/js/2.8429ba0d.chunk.js",
     "static/js/2.8429ba0d.chunk.js.map": "/Ratings-App/static/js/2.8429ba0d.chunk.js.map",
     "index.html": "/Ratings-App/index.html",
-    "precache-manifest.a42d3cab41317ea888829c993ba89a66.js": "/Ratings-App/precache-manifest.a42d3cab41317ea888829c993ba89a66.js",
+    "precache-manifest.611a7ee791754f2e44fe01187175060c.js": "/Ratings-App/precache-manifest.611a7ee791754f2e44fe01187175060c.js",
     "service-worker.js": "/Ratings-App/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/Ratings-App/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.14841c70.chunk.css.map": "/Ratings-App/static/css/main.14841c70.chunk.css.map",
+    "static/css/main.c5518945.chunk.css.map": "/Ratings-App/static/css/main.c5518945.chunk.css.map",
     "static/js/2.8429ba0d.chunk.js.LICENSE.txt": "/Ratings-App/static/js/2.8429ba0d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5584f341.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.8429ba0d.chunk.js",
-    "static/css/main.14841c70.chunk.css",
+    "static/css/main.c5518945.chunk.css",
     "static/js/main.9e4925bd.chunk.js"
   ]
 }

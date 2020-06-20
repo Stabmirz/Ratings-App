@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "53d3acf03b600e35a2e53984a63344e2",
+    "revision": "0899c49cca2bc32d6d40223b880ebba9",
     "url": "/Ratings-App/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ratings-App/static/css/2.829c9cb5.chunk.css"
   },
   {
-    "revision": "359d03f700e407bf37b6",
-    "url": "/Ratings-App/static/css/main.14841c70.chunk.css"
+    "revision": "881d5ed175b4c0fb07af",
+    "url": "/Ratings-App/static/css/main.c5518945.chunk.css"
   },
   {
     "revision": "a56ea424bca134613cfc",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Ratings-App/static/js/2.8429ba0d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "359d03f700e407bf37b6",
+    "revision": "881d5ed175b4c0fb07af",
     "url": "/Ratings-App/static/js/main.9e4925bd.chunk.js"
   },
   {
