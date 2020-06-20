@@ -1,0 +1,12 @@
+body{
+  background: #f8f8f8;
+  color: #272d45;
+  font-family: Open Sans,sans-serif;
+  font-size: 14.224px;
+  line-height: 1.6;
+  margin: 0;
+}
+
+.App {
+  text-align: center;
+}
